@@ -1,0 +1,17 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node randomCow.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cows": "^2.1.1",
+    "superheroes": "^3.0.0"
+  }
+}
